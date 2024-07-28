@@ -1,14 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Official3Gamer/FNF-OGMM"><img src="media/OGMM_LOGO_500x500.png" alt="OGMM" width="500"></a>
+  <a href="https://github.com/Official3Gamer/FNF-OGMM"><img src="Media/OGMM_LOGO_500x500.png" alt="OGMM" width="300"></a>
   <br>
   <b>FNF OGMM</b>
   <br>
 </h1>
 <h3 align="center">
 
-
-# FNF-OGMM
 FNF OfficialGamer's Music Madness (Official Github)
 This is a work in progress mod running on [JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine.git).
 
