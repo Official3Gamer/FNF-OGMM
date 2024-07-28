@@ -5,7 +5,7 @@ This is a work in progress mod running on [JS Engine](https://github.com/JordanS
 If you want to download JS engine without the mod please [click here](https://github.com/JordanSantiagoYT/FNF-PsychEngine-NoBotplayLag/releases/latest)
 
 # Development and Sneek Peeks
-![https://files.catbox.moe/ytssb1.mp4](https://files.catbox.moe/ytssb1.mp4)
+[SPAM](https://files.catbox.moe/ytssb1.mp4)
 
   
 # JS Credits
