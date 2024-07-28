@@ -1,4 +1,4 @@
-![OGMM_LOGO_TRANSPARENT](https://github.com/Official3Gamer/FNF-OGMM/blob/main/Media/OGMM_LOGO_TRANSPARENT.png?raw=true)
+![OGMM_LOGO_500x500](https://github.com/Official3Gamer/FNF-OGMM/blob/main/Media/OGMM_LOGO_500x500.png?raw=true)
 # FNF-OGMM
 FNF OfficialGamer's Music Madness (Official Github)
 This is a work in progress mod running on [JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine.git).
