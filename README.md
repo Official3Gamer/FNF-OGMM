@@ -19,6 +19,6 @@ If you want to download JS engine without the mod please [click here](https://gi
 [JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine.git) Creator: [JordanSantiago](https://github.com/JordanSantiagoYT)
 
 # FNF OGMM Credits
-Owner: [OfficialGamer](https://officialgamer.neocities.org/)
+Owner: [OfficialGamer](https://officialgamer.nekoweb.org/)
 
 [WIP] 
