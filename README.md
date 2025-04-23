@@ -7,6 +7,11 @@
 </h1>
 <h3 align="center">
 
+<p align="center">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/official3gamer/FNF-OGMM">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/official3gamer/FNF-OGMM">
+</p>
+
 FNF OfficialGamer's Music Madness (Official Github)
 This is a work in progress mod running on [JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine.git).
 
