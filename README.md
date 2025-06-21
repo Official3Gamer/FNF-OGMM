@@ -18,7 +18,7 @@ This is a work in progress mod running on [JS Engine](https://github.com/JordanS
 If you want to download JS engine without the mod please [click here](https://github.com/JordanSantiagoYT/FNF-PsychEngine-NoBotplayLag/releases/latest)
 
 # Development and Sneek Peeks
-[SPAM](https://files.catbox.moe/ytssb1.mp4)
+N/A
   
 # JS Credits
 [JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine.git) Creator: [JordanSantiago](https://github.com/JordanSantiagoYT)
@@ -27,3 +27,5 @@ If you want to download JS engine without the mod please [click here](https://gi
 Owner: [OfficialGamer](https://officialgamer.nekoweb.org/)
 
 [WIP] 
+
+[![](https://gamebanana.com/wips/embeddables/93945?type=large)](https://gamebanana.com/wips/93945)
