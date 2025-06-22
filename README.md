@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Official3Gamer/FNF-OGMM"><img src="Media/OGMM_LOGO_500x500.png" alt="OGMM" width="300"></a>
+  <a href="https://github.com/Official3Gamer/FNF-OGMM"><img src="Media/new-logo.png" alt="OGMM" width="500"></a>
   <br>
   <b>FNF OGMM</b>
   <br>
